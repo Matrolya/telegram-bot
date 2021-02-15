@@ -1,0 +1,244 @@
+{
+  "cards": [
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d38"
+      },
+      "id": "6038",
+      "name": "Комплект прикрас Серця",
+      "price": "270.00 грн",
+      "product_size": "50см",
+      "product_material": "Метал",
+      "product_color": "Сріблястий",
+      "picture": "https://cf.monpacie.com.ua/middle/dedd681ccf1d684ee8c599cbe58b850c.jpg",
+      "category": [
+        "valentine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d39"
+      },
+      "id": "6039",
+      "name": "Сережки кільце з червоним серцем",
+      "price": "160.00 грн",
+      "product_size": "55x80мм",
+      "product_material": "Метал",
+      "product_color": "Золотий, Червоний",
+      "picture": "https://cf.monpacie.com.ua/middle/9ffe114a0dea90d81176493a95984377.jpg",
+      "category": [
+        "valentine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3a"
+      },
+      "id": "603a",
+      "name": "Тримач для карточок",
+      "price": "29.00 грн",
+      "product_size": "35x28мм",
+      "product_material": "Метал",
+      "product_color": "Рожеве золото",
+      "picture": "https://cf.monpacie.com.ua/middle/b6e36c38d583f5fdb334aacd0c525ed3.jpg",
+      "category": [
+        "valentine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3b"
+      },
+      "id": "603b",
+      "name": "Значок Сердце",
+      "price": "52.00 грн",
+      "product_size": "11х13мм",
+      "product_material": "Метал",
+      "product_color": "Лимонне золото",
+      "picture": "https://cf.monpacie.com.ua/middle/872eb99c19c325a70d480f83dcf75006.jpg",
+      "category": [
+        "valentine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3c"
+      },
+      "id": "603c",
+      "name": "Браслет Ізабелла (ручна робота)",
+      "price": "800.00 грн",
+      "product_size": "",
+      "product_material": "Метал, Скло",
+      "product_color": "Рожевий",
+      "picture": "https://cf.monpacie.com.ua/middle/2f7af3fb8a440a35ea4c7efaaff67cf8.jpg",
+      "category": [
+        "bracletes"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3d"
+      },
+      "id": "603d",
+      "name": "Браслет (уп. 5 шт.)",
+      "price": "135.00 грн",
+      "product_size": "",
+      "product_material": "Метал, Скло",
+      "product_color": "Золотий",
+      "picture": "https://cf.monpacie.com.ua/middle/e5514ace4f6333795d14059f7e41bd0e.jpg",
+      "category": [
+        "bracletes"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3e"
+      },
+      "id": "603e",
+      "name": "Браслет кардіограмма",
+      "price": "220.00 грн",
+      "product_size": "17см",
+      "product_material": "Метал",
+      "product_color": "Мельхіоровий",
+      "picture": "https://cf.monpacie.com.ua/middle/21f9f39292ba865ef2d753b440c6f167.jpg",
+      "category": [
+        "bracletes"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d3f"
+      },
+      "id": "603f",
+      "name": "Браслет з мотиваційними написами",
+      "price": "185.00 грн",
+      "product_size": "4мм",
+      "product_material": "Залізо-нікелевий сплав",
+      "product_color": "Золотий",
+      "picture": "https://cf.monpacie.com.ua/middle/9626e5b2bfd0c32ca702d6f8dc148eeb.jpg",
+      "category": [
+        "bracletes"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d40"
+      },
+      "id": "6040",
+      "name": "Ручка Колесо",
+      "price": "59.00 грн",
+      "product_size": "25мм",
+      "product_material": "Пластик",
+      "product_color": "Чорний",
+      "picture": "https://cf.monpacie.com.ua/middle/b7e8d3f267006e09b504a8231cc38f2b.jpg",
+      "category": [
+        "office"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d41"
+      },
+      "id": "6041",
+      "name": "Ручка смайлик боксер",
+      "price": "45.50 грн",
+      "product_size": "10мм",
+      "product_material": "Пластик",
+      "product_color": "Жовтий, Червоний",
+      "picture": "https://cf.monpacie.com.ua/middle/83ec070ff6603191a85b5f0b082670b6.jpg",
+      "category": [
+        "office"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d42"
+      },
+      "id": "6042",
+      "name": "Пенал Пакет молока",
+      "price": "80.50 грн",
+      "product_size": "50x65мм",
+      "product_material": "Поліестер",
+      "product_color": "Малиновий, Блакитний, Жовтий",
+      "picture": "https://cf.monpacie.com.ua/middle/2891d2fbc2e8aec0579493329e5ca992.jpg",
+      "category": [
+        "office"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d43"
+      },
+      "id": "6043",
+      "name": "Гаманець Чемоданчик",
+      "price": "69.30 грн",
+      "product_size": "35x70x110мм",
+      "product_material": "Силікон",
+      "product_color": "Рожевий",
+      "picture": "https://cf.monpacie.com.ua/middle/53735d93e03279af163bbe073ad7202c.jpg",
+      "category": [
+        "office"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d44"
+      },
+      "id": "6044",
+      "name": "Значок пін Заєць-музикант",
+      "price": "69.00 грн",
+      "product_size": "46х22мм",
+      "product_material": "Метал",
+      "product_color": "",
+      "picture": "https://cf.monpacie.com.ua/middle/b7f49728b8879099de2d955f4eb64bca.jpg",
+      "category": [
+        "pins"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d45"
+      },
+      "id": "6045",
+      "name": "Значок пін Дарт Вейдер",
+      "price": "69.00 грн",
+      "product_size": "19x54мм",
+      "product_material": "Метал",
+      "product_color": "Чорний, Червоний",
+      "picture": "https://cf.monpacie.com.ua/middle/c09111903581161c5bcddd213e2b6b6a.jpg",
+      "category": [
+        "pins"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d46"
+      },
+      "id": "6046",
+      "name": "Значок пін з ланцюгом Крила",
+      "price": "89.00 грн",
+      "product_size": "50x21мм",
+      "product_material": "Метал",
+      "product_color": "Мельхіоровий",
+      "picture": "https://cf.monpacie.com.ua/middle/db9ddb009f0d7d583451d53ee986d2ed.jpg",
+      "category": [
+        "pins"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6011b9a6fd7a786a12282d47"
+      },
+      "id": "6047",
+      "name": "Значок пін Ялинка золота",
+      "price": "135.00 грн",
+      "product_size": "26x40мм",
+      "product_material": "Метал, Скло",
+      "product_color": "Золотий",
+      "picture": "https://cf.monpacie.com.ua/middle/d44cf466fe1324b0363601b1d81e3d2a.jpg",
+      "category": [
+        "pins"
+      ]
+    }
+  ]
+}
